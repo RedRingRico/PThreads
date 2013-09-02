@@ -3,3 +3,9 @@ Overview
 This repository is intended to demonstrate a variety of programs incorporating
 PThreads for my own edification and hopefully they will prove useful to others.
 
+Ideas for programs include:
+* Loading a series of images from storage
+* Simulating multiple AI Agents
+* Client/Server simple game
+* Update program that downloads files in the background, using callbacks to
+  re-load updated assets
